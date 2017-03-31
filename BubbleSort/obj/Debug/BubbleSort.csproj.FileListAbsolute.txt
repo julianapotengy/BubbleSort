@@ -1,0 +1,6 @@
+C:\Users\juliana.potengy\Desktop\GitHub\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\juliana.potengy\Desktop\GitHub\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\juliana.potengy\Desktop\GitHub\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\juliana.potengy\Desktop\GitHub\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\juliana.potengy\Desktop\GitHub\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\juliana.potengy\Desktop\GitHub\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
